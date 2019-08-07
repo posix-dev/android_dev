@@ -94,3 +94,11 @@ exclude:
   - changelog.md
   - "*.Rmd"
   - .git*
+
+  jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
