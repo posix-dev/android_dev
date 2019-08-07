@@ -1,2 +1,2 @@
-# adnroid_dev
+# android_dev
 Blog about Android dev
